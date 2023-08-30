@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⭐Abdullah⭐</title>
+</head>
+<body>
+    <table cellspacing = "20px">
+        <tr>
+            <td><img src="https://vectorstate.com/stock-photo-preview/131620734/350/ist_18896_91707.jpg" alt="my-pic" border="0"></td>
+            <td> <h1><u>Abdullah's Book</u></h1>
+                <p>Conquering mountains has always 
+                    <strong>fascinated</strong> the man. <br>
+                     Mountain climbing is a risky and dangerous sport but <br> <em>it is full of an 
+                        <strong>extraordinary</strong></em> 
+                     thrill of excitement and spirit of adventure <br> which even the climbers cannot explain completely.
+                    </p></td>
+        </tr>
+    </table><hr>
+        <h2> <u>Books and Teaching</u> </h2>
+        <ul> 
+        <li>
+           I do course of <strong> web development</strong>.   
+        </li>
+        <li>
+            <strong>So</strong> I can make my <u> <em> <strong>website</strong> </em> </u>.
+        </li>    
+        </ul><hr>
+        <h2><em><ul><u><strong>Work Experience</strong></u></ul></em></h2>
+        <table border="5px" cellspacing = "3px" >
+            <thead> 
+                <tr>
+                    <th>Data</th>
+                    <th>Work</th>
+                </tr>
+            </thead>
+                <tbody>
+                <tr>
+                    <td>2022-2023</td>
+                    <td>Lead Developer</td>
+                </tr>
+                </tbody>
+               <tr>
+                <td>2021</td>
+                <td>Researcher at The Institute of Rashid Minhas High School</td>
+               </tr>
+        </table><hr>
+        <h3>My new table</h3>
+
+<table>
+    <tr>
+        <td>
+            <table cellspacing = "4.5px">
+                <tr>
+                    <td><li>I am iOS Developer</li></td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td><li>Web Developer</li></td>
+                    <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td><li>Graphic Designer</li></td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+            </table>    
+        </td>
+    </tr>
+</table><hr>
+        <h2><strong><em><li><a href="skills.html">My Skills</a></li></em></strong></h2>
+        <h2><strong><em><li><a href="hobbies.html">My Hobbies</a></li></em></strong></h2>
+        <h2><strong><em><li><a href="Instagram.html">Instagram</a></li></em></strong></h2>
+        <h2><strong><em><li><a href="Tiktok.html">Tiktok</a></li></em></strong></h2>
+        <h2><strong><em><li><a href="Youtube.html">Youtube</a></li></em></strong></h2>
+        <h2><strong><em><li><a href="Contact.html">Contact me</a></li></em></strong></h2>
+        <h2><strong><em><li><a href="Challenge.html">HTML Challenge</a></li></em></strong></h2>
+</body>
+</html>
